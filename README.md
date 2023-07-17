@@ -24,6 +24,23 @@
 
 ![image8_select_project_folder](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/e1a05b39-f979-4967-9168-7eee1b51b694)
 
+## How running the debugging the Java application
+
+![How to run and debug the Java application image 1](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/12e2c767-4a25-4fa8-9915-feb19d156a4b)
+
+
+![How to run and debug the Java application image 2](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/862e098d-57c3-47a2-9e0d-35557d0214da)
+
+
+![How to run and debug the Java application image 3](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/1b57ae3e-120b-4dc6-8648-f37e943f7314)
+
+
+![How to run and debug the Java application image 4](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/635f349c-705c-43a5-982a-edd2aa04b7e1)
+
+
+![How to run and debug the Java application image 5](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/d7ba9110-53dc-4ba3-a8e6-01ef9aa3069c)
+
+
 
 ## This is the build.yml file for Github actions
 
