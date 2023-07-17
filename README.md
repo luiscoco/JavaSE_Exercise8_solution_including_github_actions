@@ -109,7 +109,11 @@ In VSCode create  a new ".gitignore" file, in the project root.
 ![How to create a  gitignore file](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/18a09839-d3d5-4ded-bcbc-b5e53cd974b5)
 
 
-
+The "target" folder is created after running this command:
+```
+mvn clean install exec:java
+```
+As we show in the next sections in this file, we also created a .gitignore file to avoid pushing the "target" folder from the VSCode to github.
 
 
 
