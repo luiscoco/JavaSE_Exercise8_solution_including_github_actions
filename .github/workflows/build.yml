@@ -21,5 +21,11 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
+      - name: Set up Apache Maven
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
+          distribution: 'maven'
+
       - name: Build with Maven
         run: mvn package --quiet --batch-mode
