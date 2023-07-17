@@ -41,6 +41,19 @@
 ![How to run and debug the Java application image 5](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/d7ba9110-53dc-4ba3-a8e6-01ef9aa3069c)
 
 
+## How to run/debug the application with commands in VSCode
+
+Run the command to install the dependencies:
+
+```
+PS C:\Java SE Luxoft training\Exercise8_solution_with_github_actions\exercise8_solution> mvn clean install exec:java 
+```
+
+Run the command to start the application:
+
+```
+mvn exec:java
+```
 
 ## This is the build.yml file for Github actions
 
