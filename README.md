@@ -48,6 +48,8 @@ Run the command to install the dependencies:
 ```
 PS C:\Java SE Luxoft training\Exercise8_solution_with_github_actions\exercise8_solution> mvn clean install exec:java 
 ```
+After executing the above command the "target" folder is created. As we show in the next sections in this file, we also created
+a .gitignore file to avoid pushing the "target" folder from the VSCode to github.
 
 Run the command to start the application:
 
@@ -100,6 +102,11 @@ jobs:
       run: mvn test
 ```
 
+## How to create a .gitignore file to remove the "target" folder from the pushed commits
+
+In VSCode create  a new ".gitignore" file, in the project root.
+
+![How to create a  gitignore file](https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions/assets/32194879/18a09839-d3d5-4ded-bcbc-b5e53cd974b5)
 
 
 
