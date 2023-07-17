@@ -113,7 +113,6 @@ The "target" folder is created after running this command:
 ```
 mvn clean install exec:java
 ```
-As we show in the next sections in this file, we also created a .gitignore file to avoid pushing the "target" folder from the VSCode to github.
 
 
 
